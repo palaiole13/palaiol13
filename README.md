@@ -1,3 +1,5 @@
 ### Hello and welcome!
 
-:feet: In the coming months I will be sharing political science reserach papers, as well as my first data science projects
+In the coming months I will be sharing: 
+    :paperclip: political science papers & data
+    :feet: my first data science projects
